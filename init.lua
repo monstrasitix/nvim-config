@@ -1,3 +1,3 @@
 require "config"
 
-print("Making another commit")
+print("Mak commit")
