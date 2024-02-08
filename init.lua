@@ -1,3 +1,3 @@
 require "config"
 
-print("Making first commit")
+print("Making another commit")
