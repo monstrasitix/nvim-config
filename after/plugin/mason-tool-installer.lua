@@ -11,11 +11,20 @@ require("mason-tool-installer").setup {
         { "bash-language-server", auto_update = true },
 
         "css-lsp",
-        "emmet-language-server",
         "eslint-lsp",
         "lua-language-server",
         "prettier",
         "typescript-language-server",
+        "clangd",
+        "docker-compose-language-service",
+        "dockerfile-language-server",
+        "emmet-ls",
+        "html-lsp",
+        "json-lsp",
+        -- "terraform-ls",
+        -- "gopls",
+        -- "rust-analyzer",
+        -- "rustywind",
     },
 
     -- if set to true this will check each tool for updates. If updates
